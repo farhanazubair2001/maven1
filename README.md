@@ -23,6 +23,8 @@ and the dependency:
 		<groupId>com.github.jitpack</groupId>
 		<artifactId>maven-simple</artifactId>
 		<version>0.1</version>
+		<version>0.2</version>
+		<version>0.3</version>
+<version>0.4</version>
 	</dependency>
 ```
-
