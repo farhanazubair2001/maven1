@@ -26,5 +26,8 @@ and the dependency:
 		<version>0.2</version>
 		<version>0.3</version>
 <version>0.4</version>
+		<version>0.5</version>
+		<version>0.6</version>
+		<version>0.7</version
 	</dependency>
 ```
